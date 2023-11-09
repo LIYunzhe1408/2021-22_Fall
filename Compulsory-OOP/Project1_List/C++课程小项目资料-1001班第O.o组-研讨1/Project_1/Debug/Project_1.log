@@ -1,0 +1,13 @@
+﻿  Project_1.cpp
+C:\Users\16690\Desktop\Project_1\Project_1\Project_1.cpp(32,22): warning C4101: “cur_node”: 未引用的局部变量
+C:\Users\16690\Desktop\Project_1\Project_1\Project_1.cpp(148,17): warning C4101: “year”: 未引用的局部变量
+C:\Users\16690\Desktop\Project_1\Project_1\Project_1.cpp(148,35): warning C4101: “goal”: 未引用的局部变量
+C:\Users\16690\Desktop\Project_1\Project_1\Project_1.cpp(148,30): warning C4101: “day”: 未引用的局部变量
+C:\Users\16690\Desktop\Project_1\Project_1\Project_1.cpp(148,23): warning C4101: “month”: 未引用的局部变量
+C:\Users\16690\Desktop\Project_1\Project_1\Project_1.cpp(149,12): warning C4101: “money”: 未引用的局部变量
+C:\Users\16690\Desktop\Project_1\Project_1\Project_1.cpp(148,44): warning C4101: “total_goal”: 未引用的局部变量
+  SoccerPlayer.cpp
+C:\Users\16690\Desktop\Project_1\Project_1\SoccerPlayer.cpp(7,108): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\16690\Desktop\Project_1\Project_1\SoccerPlayer.cpp(90,12): warning C4101: “r”: 未引用的局部变量
+  正在生成代码...
+  Project_1.vcxproj -> C:\Users\16690\Desktop\Project_1\Debug\Project_1.exe
